@@ -1,0 +1,3 @@
+puts "Chris Pine is..."
+puts (1204000000/86400)
+puts "...days old"
